@@ -1,0 +1,7 @@
+{
+  "name": "EliteFix - Premium On-Demand Services",
+  "description": "A luxury service marketplace for Hyderabad, connecting customers with verified professionals for home, personal, and business needs with a sleek black and gold interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
